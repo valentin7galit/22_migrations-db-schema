@@ -1,0 +1,4 @@
+Tema pentru acasa din partea mea, transformati sql-urile voastre in migrarile din Laravel:
+-Se va accepta transformarea sql codului prin DB::statement()
+-Este preferabil cel putin un caz de crearea a tabelei si modificarea in tabelei prin Laravel Shema/Blueprint
+-Daca aveti posibilitatea sa lucrati mai mult migrare, ar trebui sa ramina 2 migrari pentru lucru cu DB facade
